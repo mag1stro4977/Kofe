@@ -1,0 +1,288 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+
+}
+
+body {
+    background-color: #F7F7F0;
+}
+header {
+    height: 169px;
+     background-color: #F3D7B7;
+}
+
+.header-ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+
+
+.header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.header-ul li a {
+    font-family: sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 29.05px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.first-sct {
+    background-color: #F3D7B7;
+
+}
+
+.section-one-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 91px;
+}
+
+.left-side h1 {
+    font-family: sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 56px;
+    width: 421px;
+    margin-bottom: 26px;
+}
+
+.left-side p {
+    font-family: sans-serif;
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 32px;
+    width: 440px;
+    color: black;
+    margin-bottom: 35px;
+}
+
+.h1-left {
+    color: black;
+}
+
+button {
+    width: 175px;
+    height: 45px;
+    top: -1620.64px;
+    left: 553px;
+    gap: 0px;
+    border-radius: 100px;
+    opacity: 0px;
+    background-color: #0A775F;
+    color: white;
+    border: none;
+
+}
+
+.kofe {
+    transform: translate(36px, 105px);
+    position: relative;
+
+}
+
+.korova {
+    z-index: 5;
+    position: absolute;
+    top: 270px;
+    left: 700px;
+
+}
+
+.mainn {
+    background-color: #fff;
+}
+
+.section-2-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 91px;
+    flex-direction: row-reverse;
+}
+
+.left-side h4 {
+    font-family: sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 56px;
+    width: 421px;
+    margin-bottom: 26px;
+}
+
+.left-side p {
+    font-family: sans-serif;
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 32px;
+    width: 440px;
+    color: #333333;
+    margin-bottom: 35px;
+}
+body {
+    background-color: #F7F7F0;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.pocket-container {
+    width: 1117px;
+    margin: 0 auto;
+}
+
+.pocket-h2 {
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 58.59px;
+    text-align: center;
+    padding-top: 108px;
+    text-transform: uppercase;
+    margin-bottom: 42px;
+}
+
+.pocket-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pocket-flex div {
+    width: 430px;
+}
+
+.pocket-flex div h3 {
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 56.25px;
+    color: rgba(51, 51, 51, 1);
+    margin-bottom: 10px;
+}
+
+.pocket-flex div p {
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 34px;
+    color: rgba(51, 51, 51, 1);
+}
+
+.pcoket-flex-2 {
+    flex-direction: row-reverse;
+}
+
+
+
+.pocket-container {
+    width: 1117px;
+    margin: 0 auto;
+}
+
+.pocket-h2 {
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 58.59px;
+    text-align: center;
+    padding-top: 108px;
+    text-transform: uppercase;
+    margin-bottom: 42px;
+}
+
+.pocket-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pocket-flex div {
+    width: 430px;
+}
+
+.pocket-flex div h3 {
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 56.25px;
+    color: rgba(51, 51, 51, 1);
+    margin-bottom: 10px;
+}
+
+.pocket-flex div p {
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 34px;
+    color: rgba(51, 51, 51, 1);
+}
+
+.pcoket-flex-2 {
+    flex-direction: row-reverse;
+}
+footer {
+    height: 169px;
+     background-color: #F3D7B7;
+}
+
+.footer-ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+
+
+.footer-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.footer-ul li a {
+    font-family: sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 29.05px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+}
